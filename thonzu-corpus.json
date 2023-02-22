@@ -1,11 +1,6 @@
 {
 	"name": "thonzu",
 	"title": "通入資料盋(精簡版)",
-	"bits":[ 7, 12, 5, 8 ],
-	"toc":"h0",
-	"external": {
-		"footnotes": "s.json"
-	},
 	"rendClass": [
 		"kai",
 		"b",
@@ -33,8 +28,6 @@
 		"talk"
 	],
 	"files": [
-		"s.txt.log",
-		"x.txt.log",
-		"j.txt.log"
+		"ThonZu/ok.xml"
 	]
 }
