@@ -1,0 +1,39 @@
+<章>◎indexer建置資料庫方法</章>
+◎Accelon的應用：(以shiji-v092為例)
+◎indexer.exe & Accelon3.exe 程式下載
+◎Accelon使用說明
+
+一、檔案夾內容：
+01 indexer.exe
+02 shiji-v092.xml──檔頭資訊(定義資料庫名稱和資料庫內容名稱等)。
+03 shiji-txt092.xml──內容資訊(可以多檔，如shiji-txt092.xml，shiji-txt093.xml……)。
+04 shiji-v092.lst──資料列表(方便indexer.exe一次讀取建置資料，並排好資料建置順序)。
+05 shiji-v092_logo.png──資料庫封面(和檔頭資訊同檔名shiji-v092，+_logo.png)。
+
+二、建置步驟：
+01 開啟indexer.exe。
+02 點選「Add Files」。
+03 「開啟」對話框有兩個選項，List file(*.lst)和Source(*.xml)。(內定List file)
+04 選擇「一、檔案夾內容」中的04「shiji-v092.lst」。
+05 點選「Add Files」程式中的「Build」按鈕。
+06 完成「shiji-v092.adb」資料庫建置。
+
+三、Accelon的應用
+01 把「shiji-v092.adb」和「Accelon」主程式放在同一個檔案夾。
+02 開啟Accelon3.exe。
+03 點選「shiji-v092」。
+
+四、程式下載
+01 indexer.exe：
+http://www.ksana.tw/accelon/dl/indexer.zip
+
+02 Accelon3.exe：
+http://www.ksana.tw/accelon/dl/accelon3.zip
+
+五、Accelon3使用說明
+accelon 操作說明-01：
+http://www.ksana.tw/help/
+
+accelon 操作說明-02：
+http://www.ksana.tw/tzuchi_40years_help/
+

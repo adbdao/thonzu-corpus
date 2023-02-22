@@ -1,0 +1,20 @@
+<章>accelon-加顏色</章>
+加顏色很容易。
+首先圖示加 tag ，如
+≦音≧?囗音≦/音≧
+ 
+然後做一個 kangxi_style.txt
+音=Mingliu,1.0,$ff7fff
+ 
+$ff7fff 是 RRGGBB 顏色值
+ 
+記得 '音' 要在檔頭加上 l="音" 宣告。
+ 
+regards,
+yap
+
+(註：只須把 kangxi_style.txt放進Accelon3資料夾中即可呈現顏色！)
+
+<聯 i="color?00"><章>標記(tag)的顏色大小示範檔</章>點此連結</聯>
+
+<章>style檔範本</章>
